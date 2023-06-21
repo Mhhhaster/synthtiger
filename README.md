@@ -34,6 +34,8 @@ You can check API reference in this documentation.
 
 SynthTIGER requires `python>=3.6` and `libraqm`.
 
+libraqm install guide: #todo
+
 To install SynthTIGER from PyPI:
 
 ```bash
